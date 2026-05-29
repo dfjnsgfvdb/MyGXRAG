@@ -1,0 +1,28 @@
+{
+  "entityTypes": [
+    {
+      "id": "default",
+      "title": "核心图谱",
+      "items": [
+        {
+          "id": "douban",
+          "name": "豆瓣知识图谱",
+          "stats": {
+            "entities": 1912,
+            "relations": 2520,
+            "triples": 2520
+          }
+        },
+        {
+          "id": "rsvg",
+          "name": "RSVG 遥感知识图谱",
+          "stats": {
+            "entities": 116,
+            "relations": 190,
+            "triples": 190
+          }
+        }
+      ]
+    }
+  ]
+}

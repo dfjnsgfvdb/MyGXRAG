@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  min-width: 1120px;
+  min-height: 100vh;
+  color: #111827;
+  background: #f4f6f8;
+  font-family:
+    PingFang SC,
+    Microsoft Yahei,
+    Hiragino Sans GB,
+    Microsoft Sans Serif,
+    sans-serif;
+  font-feature-settings: "tnum";
+  font-size: 14px;
+  font-variant: tabular-nums;
+  line-height: 1.5;
+}

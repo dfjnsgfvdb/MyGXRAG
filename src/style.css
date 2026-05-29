@@ -1,0 +1,8 @@
+#app {
+  min-height: 100vh;
+}
+
+.el-select__wrapper,
+.el-input__inner {
+  font-size: 12px !important;
+}

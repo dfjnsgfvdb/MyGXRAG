@@ -1,0 +1,17 @@
+.DS_Store
+.idea/
+.yarn/
+*.pyc
+__pycache__/
+venv/
+*.log
+*.swp
+.env
+ai.config.json
+dist/
+build/
+*.tsbuildinfo
+auto-imports.d.ts
+*.egg-info/
+todo.md
+node_modules/

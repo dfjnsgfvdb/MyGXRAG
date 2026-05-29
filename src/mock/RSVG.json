@@ -1,0 +1,1737 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "label": "airplane",
+      "type": "Class"
+    },
+    {
+      "id": 1,
+      "label": "airport",
+      "type": "Class"
+    },
+    {
+      "id": 2,
+      "label": "airport_runway_marking",
+      "type": "Class"
+    },
+    {
+      "id": 3,
+      "label": "bare_land",
+      "type": "Class"
+    },
+    {
+      "id": 4,
+      "label": "baseball_field",
+      "type": "Class"
+    },
+    {
+      "id": 5,
+      "label": "basketball_court",
+      "type": "Class"
+    },
+    {
+      "id": 6,
+      "label": "beach",
+      "type": "Class"
+    },
+    {
+      "id": 7,
+      "label": "bridge",
+      "type": "Class"
+    },
+    {
+      "id": 8,
+      "label": "cemetery",
+      "type": "Class"
+    },
+    {
+      "id": 9,
+      "label": "christmas_tree_farm",
+      "type": "Class"
+    },
+    {
+      "id": 10,
+      "label": "church",
+      "type": "Class"
+    },
+    {
+      "id": 11,
+      "label": "circular_farmland",
+      "type": "Class"
+    },
+    {
+      "id": 12,
+      "label": "cloud",
+      "type": "Class"
+    },
+    {
+      "id": 13,
+      "label": "commercial_area",
+      "type": "Class"
+    },
+    {
+      "id": 14,
+      "label": "convention_center",
+      "type": "Class"
+    },
+    {
+      "id": 15,
+      "label": "crosswalk",
+      "type": "Class"
+    },
+    {
+      "id": 16,
+      "label": "dam",
+      "type": "Class"
+    },
+    {
+      "id": 17,
+      "label": "deadend_road",
+      "type": "Class"
+    },
+    {
+      "id": 18,
+      "label": "dense_residential",
+      "type": "Class"
+    },
+    {
+      "id": 19,
+      "label": "desert",
+      "type": "Class"
+    },
+    {
+      "id": 20,
+      "label": "desert_chaparral",
+      "type": "Class"
+    },
+    {
+      "id": 21,
+      "label": "football_field",
+      "type": "Class"
+    },
+    {
+      "id": 22,
+      "label": "freeway",
+      "type": "Class"
+    },
+    {
+      "id": 23,
+      "label": "golf_course",
+      "type": "Class"
+    },
+    {
+      "id": 24,
+      "label": "grass",
+      "type": "Class"
+    },
+    {
+      "id": 25,
+      "label": "harbor",
+      "type": "Class"
+    },
+    {
+      "id": 26,
+      "label": "industrial_area",
+      "type": "Class"
+    },
+    {
+      "id": 27,
+      "label": "intersection",
+      "type": "Class"
+    },
+    {
+      "id": 28,
+      "label": "lake",
+      "type": "Class"
+    },
+    {
+      "id": 29,
+      "label": "lakeshore",
+      "type": "Class"
+    },
+    {
+      "id": 30,
+      "label": "mangrove",
+      "type": "Class"
+    },
+    {
+      "id": 31,
+      "label": "mobile_home_park",
+      "type": "Class"
+    },
+    {
+      "id": 32,
+      "label": "mountain",
+      "type": "Class"
+    },
+    {
+      "id": 33,
+      "label": "oil_gas_field",
+      "type": "Class"
+    },
+    {
+      "id": 34,
+      "label": "oil_well",
+      "type": "Class"
+    },
+    {
+      "id": 35,
+      "label": "overpass",
+      "type": "Class"
+    },
+    {
+      "id": 36,
+      "label": "palace",
+      "type": "Class"
+    },
+    {
+      "id": 37,
+      "label": "park",
+      "type": "Class"
+    },
+    {
+      "id": 38,
+      "label": "parking_lot",
+      "type": "Class"
+    },
+    {
+      "id": 39,
+      "label": "parking_space_marking",
+      "type": "Class"
+    },
+    {
+      "id": 40,
+      "label": "pipeline",
+      "type": "Class"
+    },
+    {
+      "id": 41,
+      "label": "railway",
+      "type": "Class"
+    },
+    {
+      "id": 42,
+      "label": "railway_station",
+      "type": "Class"
+    },
+    {
+      "id": 43,
+      "label": "rectangular_farmland",
+      "type": "Class"
+    },
+    {
+      "id": 44,
+      "label": "resort",
+      "type": "Class"
+    },
+    {
+      "id": 45,
+      "label": "river",
+      "type": "Class"
+    },
+    {
+      "id": 46,
+      "label": "roundabout",
+      "type": "Class"
+    },
+    {
+      "id": 47,
+      "label": "school",
+      "type": "Class"
+    },
+    {
+      "id": 48,
+      "label": "sclerophyllous_forest",
+      "type": "Class"
+    },
+    {
+      "id": 49,
+      "label": "sea",
+      "type": "Class"
+    },
+    {
+      "id": 50,
+      "label": "sea_ice",
+      "type": "Class"
+    },
+    {
+      "id": 51,
+      "label": "sea_island",
+      "type": "Class"
+    },
+    {
+      "id": 52,
+      "label": "ship",
+      "type": "Class"
+    },
+    {
+      "id": 53,
+      "label": "shipping_yard",
+      "type": "Class"
+    },
+    {
+      "id": 54,
+      "label": "shrubwood",
+      "type": "Class"
+    },
+    {
+      "id": 55,
+      "label": "snow_mountain",
+      "type": "Class"
+    },
+    {
+      "id": 56,
+      "label": "solar_panel",
+      "type": "Class"
+    },
+    {
+      "id": 57,
+      "label": "sparse_residential",
+      "type": "Class"
+    },
+    {
+      "id": 58,
+      "label": "square",
+      "type": "Class"
+    },
+    {
+      "id": 59,
+      "label": "stadium",
+      "type": "Class"
+    },
+    {
+      "id": 60,
+      "label": "storage_tank",
+      "type": "Class"
+    },
+    {
+      "id": 61,
+      "label": "swimming_pool",
+      "type": "Class"
+    },
+    {
+      "id": 62,
+      "label": "tennis_court",
+      "type": "Class"
+    },
+    {
+      "id": 63,
+      "label": "terrace",
+      "type": "Class"
+    },
+    {
+      "id": 64,
+      "label": "thermal_power_station",
+      "type": "Class"
+    },
+    {
+      "id": 65,
+      "label": "transformer_station",
+      "type": "Class"
+    },
+    {
+      "id": 66,
+      "label": "tree_lined_path",
+      "type": "Class"
+    },
+    {
+      "id": 67,
+      "label": "viaduct_hub",
+      "type": "Class"
+    },
+    {
+      "id": 68,
+      "label": "waste_water_plant",
+      "type": "Class"
+    },
+    {
+      "id": 69,
+      "label": "wetland",
+      "type": "Class"
+    },
+    {
+      "id": 70,
+      "label": "tree",
+      "type": "Class"
+    },
+    {
+      "id": 71,
+      "label": "snow",
+      "type": "Class"
+    },
+    {
+      "id": 72,
+      "label": "sand",
+      "type": "Class"
+    },
+    {
+      "id": 73,
+      "label": "weed",
+      "type": "Class"
+    },
+    {
+      "id": 74,
+      "label": "water",
+      "type": "Class"
+    },
+    {
+      "id": 75,
+      "label": "ravine",
+      "type": "Class"
+    },
+    {
+      "id": 76,
+      "label": "coastline",
+      "type": "Class"
+    },
+    {
+      "id": 77,
+      "label": "gravel",
+      "type": "Class"
+    },
+    {
+      "id": 78,
+      "label": "gravestone",
+      "type": "Class"
+    },
+    {
+      "id": 79,
+      "label": "farmland",
+      "type": "Class"
+    },
+    {
+      "id": 80,
+      "label": "greenbelt",
+      "type": "Class"
+    },
+    {
+      "id": 81,
+      "label": "marking",
+      "type": "Class"
+    },
+    {
+      "id": 82,
+      "label": "zebra_crossing",
+      "type": "Class"
+    },
+    {
+      "id": 83,
+      "label": "road",
+      "type": "Class"
+    },
+    {
+      "id": 84,
+      "label": "roads",
+      "type": "Class"
+    },
+    {
+      "id": 85,
+      "label": "dirt_path",
+      "type": "Class"
+    },
+    {
+      "id": 86,
+      "label": "buildings",
+      "type": "Class"
+    },
+    {
+      "id": 87,
+      "label": "high-rise",
+      "type": "Class"
+    },
+    {
+      "id": 88,
+      "label": "low-rise",
+      "type": "Class"
+    },
+    {
+      "id": 89,
+      "label": "single_building",
+      "type": "Class"
+    },
+    {
+      "id": 90,
+      "label": "terminal_building",
+      "type": "Class"
+    },
+    {
+      "id": 91,
+      "label": "vehicle",
+      "type": "Class"
+    },
+    {
+      "id": 92,
+      "label": "track",
+      "type": "Class"
+    },
+    {
+      "id": 93,
+      "label": "runway",
+      "type": "Class"
+    },
+    {
+      "id": 94,
+      "label": "transformer",
+      "type": "Class"
+    },
+    {
+      "id": 95,
+      "label": "container",
+      "type": "Class"
+    },
+    {
+      "id": 96,
+      "label": "vein",
+      "type": "Class"
+    },
+    {
+      "id": 97,
+      "label": "jet_bridge",
+      "type": "Class"
+    },
+    {
+      "id": 98,
+      "label": "tarmac",
+      "type": "Class"
+    },
+    {
+      "id": 99,
+      "label": "landing_stage",
+      "type": "Class"
+    },
+    {
+      "id": 100,
+      "label": "four_lanes_width",
+      "type": "SubClass"
+    },
+    {
+      "id": 101,
+      "label": "white",
+      "type": "SubClass"
+    },
+    {
+      "id": 102,
+      "label": "red",
+      "type": "SubClass"
+    },
+    {
+      "id": 103,
+      "label": "green",
+      "type": "SubClass"
+    },
+    {
+      "id": 104,
+      "label": "blue",
+      "type": "SubClass"
+    },
+    {
+      "id": 105,
+      "label": "rectangular",
+      "type": "SubClass"
+    },
+    {
+      "id": 106,
+      "label": "circular",
+      "type": "SubClass"
+    },
+    {
+      "id": 107,
+      "label": "fanshaped",
+      "type": "SubClass"
+    },
+    {
+      "id": 108,
+      "label": "parallel",
+      "type": "SubClass"
+    },
+    {
+      "id": 109,
+      "label": "scattered",
+      "type": "SubClass"
+    },
+    {
+      "id": 110,
+      "label": "distributed",
+      "type": "SubClass"
+    },
+    {
+      "id": 111,
+      "label": "dense",
+      "type": "SubClass"
+    },
+    {
+      "id": 112,
+      "label": "interlaced",
+      "type": "SubClass"
+    },
+    {
+      "id": 113,
+      "label": "hierarchical",
+      "type": "SubClass"
+    },
+    {
+      "id": 114,
+      "label": "centric",
+      "type": "SubClass"
+    },
+    {
+      "id": 115,
+      "label": "irregular",
+      "type": "SubClass"
+    },
+    {
+      "id": 116,
+      "label": "ice",
+      "type": "SubClass"
+    }
+  ],
+  "edges": [
+    {
+      "id": 0,
+      "source": 0,
+      "target": 1,
+      "relation": "stop_at"
+    },
+    {
+      "id": 1,
+      "source": 1,
+      "target": 86,
+      "relation": "have"
+    },
+    {
+      "id": 2,
+      "source": 93,
+      "target": 1,
+      "relation": "pass_through"
+    },
+    {
+      "id": 3,
+      "source": 1,
+      "target": 90,
+      "relation": "have"
+    },
+    {
+      "id": 4,
+      "source": 1,
+      "target": 98,
+      "relation": "possess"
+    },
+    {
+      "id": 5,
+      "source": 79,
+      "target": 1,
+      "relation": "around"
+    },
+    {
+      "id": 6,
+      "source": 80,
+      "target": 1,
+      "relation": "around"
+    },
+    {
+      "id": 7,
+      "source": 83,
+      "target": 1,
+      "relation": "pass_through"
+    },
+    {
+      "id": 8,
+      "source": 91,
+      "target": 98,
+      "relation": "on"
+    },
+    {
+      "id": 9,
+      "source": 97,
+      "target": 90,
+      "relation": "is_part_of"
+    },
+    {
+      "id": 10,
+      "source": 0,
+      "target": 97,
+      "relation": "connected_to"
+    },
+    {
+      "id": 11,
+      "source": 81,
+      "target": 2,
+      "relation": "marked_on"
+    },
+    {
+      "id": 12,
+      "source": 72,
+      "target": 3,
+      "relation": "is_component_of"
+    },
+    {
+      "id": 13,
+      "source": 54,
+      "target": 3,
+      "relation": "in"
+    },
+    {
+      "id": 14,
+      "source": 73,
+      "target": 3,
+      "relation": "is_part_of"
+    },
+    {
+      "id": 15,
+      "source": 85,
+      "target": 3,
+      "relation": "pass_through"
+    },
+    {
+      "id": 16,
+      "source": 75,
+      "target": 3,
+      "relation": "pass_through"
+    },
+    {
+      "id": 17,
+      "source": 77,
+      "target": 3,
+      "relation": "is_member_of"
+    },
+    {
+      "id": 18,
+      "source": 72,
+      "target": 4,
+      "relation": "is_component_of"
+    },
+    {
+      "id": 19,
+      "source": 24,
+      "target": 4,
+      "relation": "is_part_of"
+    },
+    {
+      "id": 20,
+      "source": 4,
+      "target": 107,
+      "relation": "shape"
+    },
+    {
+      "id": 21,
+      "source": 81,
+      "target": 5,
+      "relation": "marked_on"
+    },
+    {
+      "id": 22,
+      "source": 5,
+      "target": 105,
+      "relation": "shape"
+    },
+    {
+      "id": 23,
+      "source": 72,
+      "target": 6,
+      "relation": "is_component_of"
+    },
+    {
+      "id": 24,
+      "source": 49,
+      "target": 6,
+      "relation": "meet"
+    },
+    {
+      "id": 25,
+      "source": 76,
+      "target": 6,
+      "relation": "along"
+    },
+    {
+      "id": 26,
+      "source": 7,
+      "target": 45,
+      "relation": "over"
+    },
+    {
+      "id": 27,
+      "source": 73,
+      "target": 8,
+      "relation": "is_part_of"
+    },
+    {
+      "id": 28,
+      "source": 83,
+      "target": 8,
+      "relation": "pass_through"
+    },
+    {
+      "id": 29,
+      "source": 8,
+      "target": 78,
+      "relation": "have"
+    },
+    {
+      "id": 30,
+      "source": 83,
+      "target": 9,
+      "relation": "pass_through"
+    },
+    {
+      "id": 31,
+      "source": 70,
+      "target": 9,
+      "relation": "in"
+    },
+    {
+      "id": 32,
+      "source": 80,
+      "target": 10,
+      "relation": "around"
+    },
+    {
+      "id": 33,
+      "source": 10,
+      "target": 86,
+      "relation": "have"
+    },
+    {
+      "id": 34,
+      "source": 11,
+      "target": 106,
+      "relation": "shape"
+    },
+    {
+      "id": 35,
+      "source": 11,
+      "target": 103,
+      "relation": "color"
+    },
+    {
+      "id": 36,
+      "source": 12,
+      "target": 101,
+      "relation": "color"
+    },
+    {
+      "id": 37,
+      "source": 12,
+      "target": 115,
+      "relation": "shape"
+    },
+    {
+      "id": 38,
+      "source": 13,
+      "target": 86,
+      "relation": "have"
+    },
+    {
+      "id": 39,
+      "source": 13,
+      "target": 87,
+      "relation": "height"
+    },
+    {
+      "id": 40,
+      "source": 13,
+      "target": 111,
+      "relation": "distribution"
+    },
+    {
+      "id": 41,
+      "source": 13,
+      "target": 83,
+      "relation": "near"
+    },
+    {
+      "id": 42,
+      "source": 70,
+      "target": 14,
+      "relation": "around"
+    },
+    {
+      "id": 43,
+      "source": 82,
+      "target": 15,
+      "relation": "marked_on"
+    },
+    {
+      "id": 44,
+      "source": 84,
+      "target": 15,
+      "relation": "intersect_at"
+    },
+    {
+      "id": 45,
+      "source": 91,
+      "target": 15,
+      "relation": "on"
+    },
+    {
+      "id": 46,
+      "source": 16,
+      "target": 74,
+      "relation": "meet"
+    },
+    {
+      "id": 47,
+      "source": 83,
+      "target": 17,
+      "relation": "pass_through"
+    },
+    {
+      "id": 48,
+      "source": 70,
+      "target": 17,
+      "relation": "around"
+    },
+    {
+      "id": 49,
+      "source": 17,
+      "target": 83,
+      "relation": "connected_to"
+    },
+    {
+      "id": 50,
+      "source": 17,
+      "target": 106,
+      "relation": "shape"
+    },
+    {
+      "id": 51,
+      "source": 70,
+      "target": 18,
+      "relation": "in"
+    },
+    {
+      "id": 52,
+      "source": 73,
+      "target": 18,
+      "relation": "is_part_of"
+    },
+    {
+      "id": 53,
+      "source": 18,
+      "target": 86,
+      "relation": "have"
+    },
+    {
+      "id": 54,
+      "source": 18,
+      "target": 88,
+      "relation": "height"
+    },
+    {
+      "id": 55,
+      "source": 83,
+      "target": 18,
+      "relation": "pass_through"
+    },
+    {
+      "id": 56,
+      "source": 18,
+      "target": 111,
+      "relation": "distribution"
+    },
+    {
+      "id": 57,
+      "source": 72,
+      "target": 19,
+      "relation": "is_component_of"
+    },
+    {
+      "id": 58,
+      "source": 54,
+      "target": 20,
+      "relation": "in"
+    },
+    {
+      "id": 59,
+      "source": 20,
+      "target": 109,
+      "relation": "distribution"
+    },
+    {
+      "id": 60,
+      "source": 73,
+      "target": 21,
+      "relation": "is_part_of"
+    },
+    {
+      "id": 61,
+      "source": 21,
+      "target": 92,
+      "relation": "surrounded_by"
+    },
+    {
+      "id": 62,
+      "source": 21,
+      "target": 105,
+      "relation": "shape"
+    },
+    {
+      "id": 63,
+      "source": 81,
+      "target": 22,
+      "relation": "marked_on"
+    },
+    {
+      "id": 64,
+      "source": 91,
+      "target": 22,
+      "relation": "on"
+    },
+    {
+      "id": 65,
+      "source": 22,
+      "target": 100,
+      "relation": "width"
+    },
+    {
+      "id": 66,
+      "source": 83,
+      "target": 22,
+      "relation": "pass_through"
+    },
+    {
+      "id": 67,
+      "source": 70,
+      "target": 23,
+      "relation": "in"
+    },
+    {
+      "id": 68,
+      "source": 72,
+      "target": 23,
+      "relation": "is_component_of"
+    },
+    {
+      "id": 69,
+      "source": 24,
+      "target": 23,
+      "relation": "is_part_of"
+    },
+    {
+      "id": 70,
+      "source": 73,
+      "target": 24,
+      "relation": "is_part_of"
+    },
+    {
+      "id": 71,
+      "source": 24,
+      "target": 103,
+      "relation": "color"
+    },
+    {
+      "id": 72,
+      "source": 52,
+      "target": 25,
+      "relation": "dock_at"
+    },
+    {
+      "id": 73,
+      "source": 25,
+      "target": 74,
+      "relation": "meet"
+    },
+    {
+      "id": 74,
+      "source": 99,
+      "target": 25,
+      "relation": "possess"
+    },
+    {
+      "id": 75,
+      "source": 26,
+      "target": 104,
+      "relation": "color"
+    },
+    {
+      "id": 76,
+      "source": 26,
+      "target": 105,
+      "relation": "shape"
+    },
+    {
+      "id": 77,
+      "source": 26,
+      "target": 86,
+      "relation": "have"
+    },
+    {
+      "id": 78,
+      "source": 26,
+      "target": 88,
+      "relation": "height"
+    },
+    {
+      "id": 79,
+      "source": 26,
+      "target": 83,
+      "relation": "near"
+    },
+    {
+      "id": 80,
+      "source": 84,
+      "target": 27,
+      "relation": "intersect_at"
+    },
+    {
+      "id": 81,
+      "source": 91,
+      "target": 27,
+      "relation": "on"
+    },
+    {
+      "id": 82,
+      "source": 28,
+      "target": 115,
+      "relation": "shape"
+    },
+    {
+      "id": 83,
+      "source": 28,
+      "target": 29,
+      "relation": "surrounded_by"
+    },
+    {
+      "id": 84,
+      "source": 73,
+      "target": 29,
+      "relation": "is_part_of"
+    },
+    {
+      "id": 85,
+      "source": 70,
+      "target": 29,
+      "relation": "in"
+    },
+    {
+      "id": 86,
+      "source": 72,
+      "target": 29,
+      "relation": "is_component_of"
+    },
+    {
+      "id": 87,
+      "source": 70,
+      "target": 30,
+      "relation": "is_member_of"
+    },
+    {
+      "id": 88,
+      "source": 30,
+      "target": 102,
+      "relation": "color"
+    },
+    {
+      "id": 89,
+      "source": 31,
+      "target": 105,
+      "relation": "shape"
+    },
+    {
+      "id": 90,
+      "source": 31,
+      "target": 86,
+      "relation": "have"
+    },
+    {
+      "id": 91,
+      "source": 70,
+      "target": 31,
+      "relation": "in"
+    },
+    {
+      "id": 92,
+      "source": 73,
+      "target": 32,
+      "relation": "is_part_of"
+    },
+    {
+      "id": 93,
+      "source": 72,
+      "target": 32,
+      "relation": "is_component_of"
+    },
+    {
+      "id": 94,
+      "source": 32,
+      "target": 96,
+      "relation": "shape"
+    },
+    {
+      "id": 95,
+      "source": 73,
+      "target": 33,
+      "relation": "is_part_of"
+    },
+    {
+      "id": 96,
+      "source": 72,
+      "target": 33,
+      "relation": "is_component_of"
+    },
+    {
+      "id": 97,
+      "source": 34,
+      "target": 33,
+      "relation": "in"
+    },
+    {
+      "id": 98,
+      "source": 83,
+      "target": 35,
+      "relation": "over"
+    },
+    {
+      "id": 99,
+      "source": 91,
+      "target": 35,
+      "relation": "on"
+    },
+    {
+      "id": 100,
+      "source": 81,
+      "target": 35,
+      "relation": "marked_on"
+    },
+    {
+      "id": 101,
+      "source": 80,
+      "target": 36,
+      "relation": "around"
+    },
+    {
+      "id": 102,
+      "source": 36,
+      "target": 86,
+      "relation": "have"
+    },
+    {
+      "id": 103,
+      "source": 36,
+      "target": 114,
+      "relation": "shape"
+    },
+    {
+      "id": 104,
+      "source": 70,
+      "target": 37,
+      "relation": "in"
+    },
+    {
+      "id": 105,
+      "source": 83,
+      "target": 37,
+      "relation": "pass_through"
+    },
+    {
+      "id": 106,
+      "source": 37,
+      "target": 74,
+      "relation": "contain"
+    },
+    {
+      "id": 107,
+      "source": 37,
+      "target": 86,
+      "relation": "have"
+    },
+    {
+      "id": 108,
+      "source": 91,
+      "target": 38,
+      "relation": "on"
+    },
+    {
+      "id": 109,
+      "source": 39,
+      "target": 38,
+      "relation": "marked_on"
+    },
+    {
+      "id": 110,
+      "source": 73,
+      "target": 39,
+      "relation": "is_part_of"
+    },
+    {
+      "id": 111,
+      "source": 40,
+      "target": 112,
+      "relation": "distribution"
+    },
+    {
+      "id": 112,
+      "source": 41,
+      "target": 108,
+      "relation": "distribution"
+    },
+    {
+      "id": 113,
+      "source": 41,
+      "target": 42,
+      "relation": "pass_through"
+    },
+    {
+      "id": 114,
+      "source": 42,
+      "target": 86,
+      "relation": "have"
+    },
+    {
+      "id": 115,
+      "source": 43,
+      "target": 105,
+      "relation": "shape"
+    },
+    {
+      "id": 116,
+      "source": 70,
+      "target": 44,
+      "relation": "in"
+    },
+    {
+      "id": 117,
+      "source": 44,
+      "target": 86,
+      "relation": "have"
+    },
+    {
+      "id": 118,
+      "source": 44,
+      "target": 74,
+      "relation": "contain"
+    },
+    {
+      "id": 119,
+      "source": 73,
+      "target": 44,
+      "relation": "is_part_of"
+    },
+    {
+      "id": 120,
+      "source": 70,
+      "target": 45,
+      "relation": "along"
+    },
+    {
+      "id": 121,
+      "source": 45,
+      "target": 43,
+      "relation": "near"
+    },
+    {
+      "id": 122,
+      "source": 45,
+      "target": 86,
+      "relation": "next_to"
+    },
+    {
+      "id": 123,
+      "source": 91,
+      "target": 46,
+      "relation": "on"
+    },
+    {
+      "id": 124,
+      "source": 46,
+      "target": 106,
+      "relation": "shape"
+    },
+    {
+      "id": 125,
+      "source": 70,
+      "target": 46,
+      "relation": "in"
+    },
+    {
+      "id": 126,
+      "source": 73,
+      "target": 46,
+      "relation": "is_part_of"
+    },
+    {
+      "id": 127,
+      "source": 46,
+      "target": 86,
+      "relation": "next_to"
+    },
+    {
+      "id": 128,
+      "source": 47,
+      "target": 21,
+      "relation": "possess"
+    },
+    {
+      "id": 129,
+      "source": 47,
+      "target": 86,
+      "relation": "have"
+    },
+    {
+      "id": 130,
+      "source": 70,
+      "target": 47,
+      "relation": "in"
+    },
+    {
+      "id": 131,
+      "source": 48,
+      "target": 103,
+      "relation": "color"
+    },
+    {
+      "id": 132,
+      "source": 70,
+      "target": 48,
+      "relation": "is_member_of"
+    },
+    {
+      "id": 133,
+      "source": 49,
+      "target": 104,
+      "relation": "color"
+    },
+    {
+      "id": 134,
+      "source": 74,
+      "target": 49,
+      "relation": "is_component_of"
+    },
+    {
+      "id": 135,
+      "source": 52,
+      "target": 49,
+      "relation": "dock_at"
+    },
+    {
+      "id": 136,
+      "source": 51,
+      "target": 49,
+      "relation": "surrounded_by"
+    },
+    {
+      "id": 137,
+      "source": 73,
+      "target": 51,
+      "relation": "is_part_of"
+    },
+    {
+      "id": 138,
+      "source": 50,
+      "target": 101,
+      "relation": "color"
+    },
+    {
+      "id": 139,
+      "source": 116,
+      "target": 50,
+      "relation": "is_part_of"
+    },
+    {
+      "id": 140,
+      "source": 50,
+      "target": 49,
+      "relation": "surrounded_by"
+    },
+    {
+      "id": 141,
+      "source": 95,
+      "target": 53,
+      "relation": "on"
+    },
+    {
+      "id": 142,
+      "source": 53,
+      "target": 105,
+      "relation": "shape"
+    },
+    {
+      "id": 143,
+      "source": 54,
+      "target": 103,
+      "relation": "color"
+    },
+    {
+      "id": 144,
+      "source": 71,
+      "target": 55,
+      "relation": "cover"
+    },
+    {
+      "id": 145,
+      "source": 72,
+      "target": 55,
+      "relation": "is_component_of"
+    },
+    {
+      "id": 146,
+      "source": 55,
+      "target": 96,
+      "relation": "shape"
+    },
+    {
+      "id": 147,
+      "source": 55,
+      "target": 101,
+      "relation": "color"
+    },
+    {
+      "id": 148,
+      "source": 56,
+      "target": 105,
+      "relation": "shape"
+    },
+    {
+      "id": 149,
+      "source": 56,
+      "target": 86,
+      "relation": "cover"
+    },
+    {
+      "id": 150,
+      "source": 70,
+      "target": 57,
+      "relation": "in"
+    },
+    {
+      "id": 151,
+      "source": 73,
+      "target": 57,
+      "relation": "is_part_of"
+    },
+    {
+      "id": 152,
+      "source": 57,
+      "target": 86,
+      "relation": "have"
+    },
+    {
+      "id": 153,
+      "source": 57,
+      "target": 88,
+      "relation": "height"
+    },
+    {
+      "id": 154,
+      "source": 57,
+      "target": 109,
+      "relation": "distribution"
+    },
+    {
+      "id": 155,
+      "source": 80,
+      "target": 58,
+      "relation": "around"
+    },
+    {
+      "id": 156,
+      "source": 58,
+      "target": 89,
+      "relation": "have"
+    },
+    {
+      "id": 157,
+      "source": 58,
+      "target": 114,
+      "relation": "shape"
+    },
+    {
+      "id": 158,
+      "source": 59,
+      "target": 21,
+      "relation": "possess"
+    },
+    {
+      "id": 159,
+      "source": 59,
+      "target": 103,
+      "relation": "color"
+    },
+    {
+      "id": 160,
+      "source": 24,
+      "target": 59,
+      "relation": "is_part_of"
+    },
+    {
+      "id": 161,
+      "source": 60,
+      "target": 106,
+      "relation": "shape"
+    },
+    {
+      "id": 162,
+      "source": 70,
+      "target": 61,
+      "relation": "around"
+    },
+    {
+      "id": 163,
+      "source": 73,
+      "target": 61,
+      "relation": "around"
+    },
+    {
+      "id": 164,
+      "source": 61,
+      "target": 104,
+      "relation": "color"
+    },
+    {
+      "id": 165,
+      "source": 81,
+      "target": 62,
+      "relation": "marked_on"
+    },
+    {
+      "id": 166,
+      "source": 62,
+      "target": 105,
+      "relation": "shape"
+    },
+    {
+      "id": 167,
+      "source": 70,
+      "target": 62,
+      "relation": "in"
+    },
+    {
+      "id": 168,
+      "source": 70,
+      "target": 63,
+      "relation": "in"
+    },
+    {
+      "id": 169,
+      "source": 79,
+      "target": 63,
+      "relation": "is_part_of"
+    },
+    {
+      "id": 170,
+      "source": 73,
+      "target": 63,
+      "relation": "in"
+    },
+    {
+      "id": 171,
+      "source": 63,
+      "target": 113,
+      "relation": "distribution"
+    },
+    {
+      "id": 172,
+      "source": 64,
+      "target": 106,
+      "relation": "shape"
+    },
+    {
+      "id": 173,
+      "source": 64,
+      "target": 86,
+      "relation": "have"
+    },
+    {
+      "id": 174,
+      "source": 94,
+      "target": 65,
+      "relation": "is_part_of"
+    },
+    {
+      "id": 175,
+      "source": 80,
+      "target": 65,
+      "relation": "around"
+    },
+    {
+      "id": 176,
+      "source": 70,
+      "target": 65,
+      "relation": "in"
+    },
+    {
+      "id": 177,
+      "source": 70,
+      "target": 66,
+      "relation": "along"
+    },
+    {
+      "id": 178,
+      "source": 83,
+      "target": 66,
+      "relation": "pass_through"
+    },
+    {
+      "id": 179,
+      "source": 70,
+      "target": 67,
+      "relation": "in"
+    },
+    {
+      "id": 180,
+      "source": 83,
+      "target": 67,
+      "relation": "over"
+    },
+    {
+      "id": 181,
+      "source": 67,
+      "target": 86,
+      "relation": "have"
+    },
+    {
+      "id": 182,
+      "source": 67,
+      "target": 112,
+      "relation": "distribution"
+    },
+    {
+      "id": 183,
+      "source": 73,
+      "target": 67,
+      "relation": "is_part_of"
+    },
+    {
+      "id": 184,
+      "source": 68,
+      "target": 106,
+      "relation": "shape"
+    },
+    {
+      "id": 185,
+      "source": 73,
+      "target": 68,
+      "relation": "is_part_of"
+    },
+    {
+      "id": 186,
+      "source": 68,
+      "target": 89,
+      "relation": "have"
+    },
+    {
+      "id": 187,
+      "source": 69,
+      "target": 74,
+      "relation": "contain"
+    },
+    {
+      "id": 188,
+      "source": 73,
+      "target": 69,
+      "relation": "is_part_of"
+    },
+    {
+      "id": 189,
+      "source": 69,
+      "target": 110,
+      "relation": "distribution"
+    },
+    {
+      "id": 190,
+      "source": 70,
+      "target": 69,
+      "relation": "in"
+    }
+  ]
+}
